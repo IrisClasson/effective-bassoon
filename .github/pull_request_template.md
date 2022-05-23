@@ -1,3 +1,16 @@
-### PR Info
+#### Changes
+Describe your changes
 
-- [ ] Tests green
+#### Solves
+Ticket link
+
+#### Limitations
+
+#### Best reviewed
+- [ ] Commit by commit
+- [ ] All Changes
+
+#### Testing
+- [ ] Testing required
+
+If testing required describe how to test
